@@ -32,7 +32,15 @@
 ## 
   
 <div align="center">
-  
-  ![ARVIOJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARVIOJ&theme=radical&show_icons=true)
 
+  ![ARVIOJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARVIOJ&theme=radical&show_icons=true)
+  
  </div>
+ 
+   <div align="center">
+   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARVIOJ&layout=compact&theme=radical&hide_border=true)
+  
+ </div>
+ 
+
