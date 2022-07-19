@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi! I'm Ariel Olguin <a> <br> <img aling="left" width="100" height="100" src="https://github.com/ARVIOJ/arielolguin/blob/main/image.gif?raew=tru"/></a></h1>
+<h1 align="center">¡Hi! I'm Ariel Olguin <a> <br> <img aling="left" width="200" height="200" src="https://github.com/ARVIOJ/arielolguin/blob/main/image.gif?raew=tru"/></a></h1>
 
 <h3 align="center"> Information technology Student UAEH  | DEV Student </h3>
 <p> <li> You can find school and personal projects 📚 <p>
