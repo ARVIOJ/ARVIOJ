@@ -1,3 +1,5 @@
+
+
 <h1 align="center">¡Hi! I'm Ariel Olguin <a> <br> <img aling="left" width="150" height="150" src="https://github.com/ARVIOJ/arielolguin/blob/main/image.gif?raew=tru"/></a></h1>
 
 <h3 align="center"> Information technology undergraduate UAEH | Developer Student </h3>
@@ -34,11 +36,10 @@
 ## 
   
 <div align="center">
-  ![ARVIOJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARVIOJ&show_icons=true&theme=cobalt)
+ <img src="https://github-readme-stats.vercel.app/api?username=ARVIOJ&show_icons=true&theme=cobalt" alt="Alt text" title="Optional title">
  </div>
  
    <div align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARVIOJ)  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARVIOJ&theme=cobalt" alt="Alt text" title="Optional title">
    </div>
  
-
