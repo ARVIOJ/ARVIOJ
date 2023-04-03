@@ -17,7 +17,7 @@
  
   <p>Frontend Development</p>
   
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" aling="center" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" aling="center" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" aling="center" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" aling="center" alt="bootstrap" width="40" height="40"/></a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" aling="center" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" aling="center" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" aling="center" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" aling="center" alt="sass" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" aling="center" alt="bootstrap" width="40" height="40"/></a>
 
 <p>Database</p>
 
