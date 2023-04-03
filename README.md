@@ -28,7 +28,9 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" aling="center" alt="figma" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" aling="center" alt="blender" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" aling="center" alt="illustrator" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" aling="center" alt="photoshop" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" aling="center" alt="canva" width="40" height="40"/></a>
 
 
-
+<p>Development Platforms</p>
+  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" aling="center" alt="vscode" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" aling="visualstudio" alt="figma" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" aling="center" alt="unity" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" aling="center" alt="intellij" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" aling="center" alt="android studio" width="40" height="40"/>></a>
 ## 
   
 <div align="center">
