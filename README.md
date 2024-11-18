@@ -8,7 +8,7 @@
 <p> <li> I'm interested in frontend technologies and design UI/UX 💻<p>
 
 ## 📱 Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-victor-olguin-jimenez-baa8371b4/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-victor-olguin-jimenez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![instagram](https://img.shields.io/badge/instagram-C837AC?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arvioj_shuffle/)
 
 
