@@ -3,7 +3,7 @@
 <h1 align="center">¡Hi! I'm Ariel Olguin <a> <br> <img align="center" width="150" height="150" src="https://github.com/ARVIOJ/arielolguin/blob/main/image.gif?raew=tru"/></a></h1>
 
 <h3 align="center"> Information technology undergraduate UAEH | Graduate Developer </h3>
-<p> <li> Mexico ICPC Regional Finalist 🇲🇽🎈🎈🎈 <p> <img align="center" width="50" height="50" src="https://github.com/ARVIOJ/ARVIOJ/blob/main/logo_outlined.svg?raew=tru"/>
+<p> <li> Mexico ICPC Regional Finalist 🇲🇽🎈🎈🎈  <img align="center" width="50" height="50" src="https://github.com/ARVIOJ/ARVIOJ/blob/main/logo_outlined.svg?raew=tru"/><p>
 <p> <li> You can find school and personal projects 📚 <p>
 <p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
 <p> <li> I'm interested in frontend technologies and design UI/UX 💻<p>
